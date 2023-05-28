@@ -5,6 +5,8 @@ __Email : mailto:shreyansh.padarha@hotmail.com__<br>
 
 This repository contains a comprehensive implementation of gradient descent for linear regression, including visualizations and comparisons with ordinary least squares (OLS) regression. It also includes an additional implementation for multiple linear regression using gradient descent.
 
+__Note:__ The main_notebook.ipynb contains the main running code for the gradient descent implementation
+
 ---
 > # Introduction 
 
